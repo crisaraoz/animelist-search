@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/animelist-search/static/css/main.982746dd.css",
+    "main.js": "/animelist-search/static/js/main.5703388a.js",
+    "index.html": "/animelist-search/index.html",
+    "main.982746dd.css.map": "/animelist-search/static/css/main.982746dd.css.map",
+    "main.5703388a.js.map": "/animelist-search/static/js/main.5703388a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.982746dd.css",
+    "static/js/main.5703388a.js"
+  ]
+}
