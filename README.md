@@ -1,3 +1,3 @@
-#Search Bar using MyAnimeList Api as EndPoint.
+Search Bar using MyAnimeList Api
 
-React.js for Components and HTML/CSS for styling
+Made in React.js for Components and HTML/CSS for styling
